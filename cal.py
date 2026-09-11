@@ -4,5 +4,5 @@ sum=num1+num2
 print("Add ",sum)
 num1=int(input("Enter number1"))
 num2=int(input("Enter number2"))
-sum=num1-num2
+sum=num*num2
 print("Multiply ",sum)
